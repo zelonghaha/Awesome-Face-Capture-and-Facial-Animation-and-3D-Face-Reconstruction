@@ -1,2 +1,2 @@
-# paper
-论文、开源项目
+# **paper**
+- I M Avatar: Implicit Morphable Head Avatars from Videos.[代码](https://github.com/zhengyuf/IMavatar.git)
