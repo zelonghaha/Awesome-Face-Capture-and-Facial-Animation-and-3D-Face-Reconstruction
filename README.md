@@ -1,5 +1,4 @@
-# **paper**  
-:memo: :high_brightness: **相关论文**  
+ :memo: :high_brightness: **A list of Facial Animation and 3D face reconstruction resources.**  
 ## :high_brightness: Neural head  
 - I M Avatar: Implicit Morphable Head Avatars from Videos.[论文](https://arxiv.org/abs/2112.07471)|[代码](https://github.com/zhengyuf/IMavatar.git)  
 - Neural Head Avatars from Monocular RGB Videos.[论文](https://arxiv.org/pdf/2112.01554.pdf)|[代码](https://github.com/philgras/neural-head-avatars.git)  
